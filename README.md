@@ -3,10 +3,10 @@
 <h3 align="center" style="font-weight: bold; margin-top: 20px; margin-bottom: 20px;">Guide setup NextAuth for Nextjs with Tailwind CSS</h3>
   
 <p align="center">
-  <a href="https://github.com/nguyentrisinh/demo-next-auth"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/nguyentrisinh/demo-next-auth/build"></a>
-  <a href="#last-commit"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nguyentrisinh/demo-next-auth"></a>
+  <a href="https://github.com/phungnlg/demo-next-auth"><img alt="GitHub Workflow Status" src="https://img.shields.io/github/workflow/status/phungnlg/demo-next-auth/build"></a>
+  <a href="#last-commit"><img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/phungnlg/demo-next-auth"></a>
   <a href="#node-current"><img alt="node-current" src="https://img.shields.io/node/v/next"></a>
-  <a href="#license"><img alt="GitHub" src="https://img.shields.io/github/license/nguyentrisinh/demo-next-auth"></a>
+  <a href="#license"><img alt="GitHub" src="https://img.shields.io/github/license/phungnlg/demo-next-auth"></a>
 </p>
   
 <p align="center">
@@ -33,7 +33,7 @@
 - **[Next JS](https://nextjs.org/docs/getting-started)**
 - **[NextAuth](https://next-auth.js.org/)**
 - **[Tailwind CSS](https://tailwindcss.com/)**
-- **[Setup Tailwind for NextJS](https://github.com/nguyentrisinh/demo-nextjs-tailwindcss)**
+- **[Setup Tailwind for NextJS](https://github.com/phungnlg/demo-nextjs-tailwindcss)**
 
 <br/>
   
@@ -199,7 +199,7 @@ Any of testing activities and reports goes here.
   
 If you haven't done so already, please check out [Get Help](#get-help) for the fastest possible help on your issue. Alternatively you can get in touch with me by:
 
-- Email: nguyentrisinh0810@gmail.com
+- Email: phungnlg0810@gmail.com
   
 <br/>
 
@@ -209,11 +209,11 @@ This project is proudly licensed under the [MIT license][git-license].
 
 <!-- LINKS -->
 <!-- in-line references: websites -->
-[sinhnt.com]:https://sinhnt.com
+[phungnlg.github.io]:https://phungnlg.github.io
 [react-bootstrap]:https://react-bootstrap.github.io/
 
 <!-- in-line references to github -->
 
-[git-profile]:https://github.com/nguyentrisinh
+[git-profile]:https://github.com/phungnlg
 [git-readme]:README.md
 [git-license]:LICENSE.md

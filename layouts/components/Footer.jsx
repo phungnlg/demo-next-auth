@@ -45,7 +45,7 @@ const Footer = () => {
                 </a>
                 <a
                   className="inline-flex items-center justify-center w-10 h-10 mr-2 font-normal text-gray-900 bg-white rounded-full shadow-lg outline-none hover:bg-gray-200 align-center focus:outline-none"
-                  href="https://sinhnt.com"
+                  href="https://phungnlg.github.io"
                   target="_blank"
                 >
                   <i className="fab fa-github"></i>
@@ -62,7 +62,7 @@ const Footer = () => {
                     <li>
                       <a
                         className="block pb-2 text-sm font-semibold hover:text-gray-400"
-                        href="https://sinhnt.com/"
+                        href="https://phungnlg.github.io/"
                         target="_blank"
                       >
                         About Me
@@ -71,7 +71,7 @@ const Footer = () => {
                     <li>
                       <a
                         className="block pb-2 text-sm font-semibold hover:text-gray-400"
-                        href="https://github.com/nguyentrisinh"
+                        href="https://github.com/phungnlg"
                         target="_blank"
                       >
                         Github
@@ -88,7 +88,7 @@ const Footer = () => {
               <div className="py-1 text-sm font-semibold text-white">
                 Copyright © {new Date().getFullYear()} {" "}
                 <a
-                  href="https://sinhnt.com/"
+                  href="https://phungnlg.github.io/"
                   className="text-white hover:text-gray-400"
                 >
                   Sinh NT
